@@ -1,0 +1,1 @@
+MyWindow w = new MyWindow()
